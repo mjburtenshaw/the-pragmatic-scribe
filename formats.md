@@ -1,6 +1,6 @@
-[🔝 TOP: README](the-pragmatic-scribe/README.md)
+[🔝 TOP: README](README.md)
 
-[🔙 BACK: Formats](the-pragmatic-scribe/README.md#formats)
+[🔙 BACK: Formats](README.md#formats)
 
 Formats
 ====================================
@@ -204,7 +204,7 @@ Enum post_status {
 Ref: posts.user_id > users.id // many-to-one
 ```
 
-[🔙 Next: The Pragmatic Scribe Paradigm](the-pragmatic-scribe/README.md#the-pragmatic-scribe-paradigm)
+[🔙 Next: The Pragmatic Scribe Paradigm](README.md#the-pragmatic-scribe-paradigm)
 
 See Also
 -------------

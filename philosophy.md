@@ -1,6 +1,6 @@
-[🔝 TOP: The Pragmatic Scribe](the-pragmatic-scribe/README.md)
+[🔝 TOP: The Pragmatic Scribe](README.md)
 
-[🔙 BACK: Philosophy](the-pragmatic-scribe/README.md#philosophy)
+[🔙 BACK: Philosophy](README.md#philosophy)
 
 Philosophy
 ==================
@@ -76,7 +76,7 @@ Like any philosophy, different paradigms attempt to live up to the form. Some ex
 
 I would like to introduce a pragmatic approach. But first, let's cover some documentation formats.
 
-[⏭️ NEXT: Formats](the-pragmatic-scribe/README.md#formats)
+[⏭️ NEXT: Formats](README.md#formats)
 
 See Also
 -------------

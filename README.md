@@ -29,25 +29,25 @@ A Note on Systems
 
 Before delving into the specifics of documentation, it's crucial to understand the systems that documentation interacts with. Software development is not isolated; it's part of a larger ecosystem that includes various tools, technologies, and paradigms. We'll briefly touch upon these systems to provide context for the importance of documentation in this complex environment.
 
-See [systems](systems.md).
+See [systems](https://github.com/mjburtenshaw/macpracs/blob/main/systems.md).
 
 Philosophy
 ----------------
 
-See [philosophy](the-pragmatic-scribe/philosophy.md).
+See [philosophy](philosophy.md).
 
 Formats
 -----------
 
 Documentation comes in various forms, each with its unique strengths. We'll explore semantic code, comments, markdown, and DBML formats, discussing when and how to use them effectively.
 
-See [formats](the-pragmatic-scribe/formats.md).
+See [formats](formats.md).
 
 
 The Pragmatic Scribe Paradigm
 ----------------------------------------------
 
-See [paradigm](the-pragmatic-scribe/paradigm.md).
+See [paradigm](paradigm.md).
 
 First Class Documentation
 ---------------------------------------
@@ -58,13 +58,13 @@ Documentation isn't a monolithic entity; it varies based on the context. We'll c
 
 Project-level documentation provides an overview and governance for the entire software project. We'll explore key documents like README, LICENSE, CHANGELOG, CONTRIBUTORS, and more.
 
-See [project-docs](the-pragmatic-scribe/project-docs.md) for details.
+See [project-docs](project-docs.md) for details.
 
 But how do we document things that apply to multiple projects?
 
 ### Initiative Docs
 
-See [initiative-docs](the-pragmatic-scribe/initiative-docs.md) for details.
+See [initiative-docs](initiative-docs.md) for details.
 
 Conclusion
 ----------------

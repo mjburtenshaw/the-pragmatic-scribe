@@ -1,6 +1,6 @@
-[🔝 TOP: The Pragmatic Scribe](the-pragmatic-scribe/README.md)
+[🔝 TOP: The Pragmatic Scribe](README.md)
 
-[🔙 BACK: The Pragmatic Scribe Paradigm](the-pragmatic-scribe/README.md#the-pragmatic-scribe-paradigm)
+[🔙 BACK: The Pragmatic Scribe Paradigm](README.md#the-pragmatic-scribe-paradigm)
 
 The Pragmatic Scribe Paradigm
 ====================================================
@@ -335,7 +335,7 @@ The approach to documenting directories often varies by language and tooling eco
 
 Beyond this, we get to project and initiative-level documentation, which will get its own section.
 
-[⏭️ NEXT: First Class Documentation](the-pragmatic-scribe/README.md#first-class-documentation)
+[⏭️ NEXT: First Class Documentation](README.md#first-class-documentation)
 
 See Also
 -------------

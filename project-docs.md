@@ -1,6 +1,6 @@
-[🔝 TOP: The Pragmatic Scribe](the-pragmatic-scribe/README.md)
+[🔝 TOP: The Pragmatic Scribe](README.md)
 
-[🔙 BACK: Project Docs](the-pragmatic-scribe/README.md#project-docs)
+[🔙 BACK: Project Docs](README.md#project-docs)
 
 Project Docs
 ====================================
@@ -239,7 +239,7 @@ Profiling helps identify performance bottlenecks. We'll discuss how to document 
 
 Tuning involves optimizing software for better performance. We'll explore how to document tuning efforts and their impact on your software's efficiency.
 
-[⏭️ NEXT: Initiative Docs](the-pragmatic-scribe/README.md#initiative-docs)
+[⏭️ NEXT: Initiative Docs](README.md#initiative-docs)
 
 See Also
 -------------

@@ -1,6 +1,6 @@
-[🔝 TOP: The Pragmatic Scribe](the-pragmatic-scribe/README.md)
+[🔝 TOP: The Pragmatic Scribe](README.md)
 
-[🔙 BACK: Initiative Docs](the-pragmatic-scribe/README.md#initiative-docs)
+[🔙 BACK: Initiative Docs](README.md#initiative-docs)
 
 Initiative Docs
 ====================================
@@ -116,4 +116,4 @@ End-of-Initiative Review Plan
 - Outlines how the initiative's success will be evaluated upon completion.
 - Describes post-initiative actions, such as lessons learned sessions, post-mortems, or hand-offs.
 
-[⏭️ NEXT: Conclusion](the-pragmatic-scribe/README.md#conclusion)
+[⏭️ NEXT: Conclusion](README.md#conclusion)
